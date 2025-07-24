@@ -86,4 +86,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  21.07.2025
+
+
+Update: Internal navigation
